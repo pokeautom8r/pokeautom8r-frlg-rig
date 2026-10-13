@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+hunt_state.json
+hunt_*.log
+hunt_screenshots_*/
+alert_watcher_*.log
+start_hunt.out
+.telegram_alert.json
+_REVIEW-NOTES.md
