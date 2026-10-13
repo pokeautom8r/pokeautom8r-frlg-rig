@@ -6,7 +6,7 @@ recorded soft-reset loop. Nothing is plugged into the Switch that Nintendo didn'
 months and 78,000 soft resets, missed two shinies because of a bug in my own detection, and then found a shiny
 Bulbasaur at reset 21,266 and a shiny Eevee at reset 2,171.
 
-Video: {VIDEO}
+Video: https://youtu.be/j2NFi9pp2g8
 
 Everything here is free: the scripts, the detection profiles, the cradle STLs, the parts list, and a setup file you
 can hand to an AI assistant and be walked through the build one step at a time (`SETUP-WITH-AI.md`). If it helps
