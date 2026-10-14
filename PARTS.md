@@ -3,12 +3,14 @@
 What I actually used, with the prices I paid or saw in October 2026. Prices move; the search terms will get you the
 current listing.
 
-Nothing in this project was sponsored or supplied free, and none of the links below pay me anything.
+As an Amazon Associate I earn from qualifying purchases.
+The Amazon links below are affiliate links: if you buy through them I get a small commission at no extra cost to you.
+Nothing in this project was sponsored or supplied free.
 
 | Part | What it is for | Where | Approx. price |
 |---|---|---|---|
-| GuliKit KK3 Max controller | Records and replays the soft-reset loop; its macro (APG) button is what the servo taps. The plain KK3 has no macro button. | https://www.amazon.com/dp/B0CGWZBPQQ (the B0GKNG7RK8 listing is the same controller) | $80 |
-| Raspberry Pi 5 kit, 8 GB (CanaKit PRO, 128 GB card) | Runs the detector. A 4 GB Pi 5 kit works the same for this job. | https://www.amazon.com/dp/B0CT6F25MN | $215 (4 GB kit about $150) |
+| GuliKit KK3 Max controller | Records and replays the soft-reset loop; its macro (APG) button is what the servo taps. The plain KK3 has no macro button. | https://www.amazon.com/dp/B0CGWZBPQQ?tag=pokeautom8r-20 (the B0GKNG7RK8 listing is the same controller) | $80 |
+| Raspberry Pi 5 kit, 8 GB (CanaKit PRO, 128 GB card) | Runs the detector. A 4 GB Pi 5 kit works the same for this job. | https://www.amazon.com/dp/B0CT6F25MN?tag=pokeautom8r-20 | $215 (4 GB kit about $150) |
 | USB 3 HDMI capture card, 1080p/4K in, HDCP 2.2, UVC | Turns the Switch's HDMI into a webcam feed for the Pi. Mine is a Macrosilicon "4K HDTV" card with HDMI passthrough, so the TV stays connected without a splitter. | Amazon, search the part name | $25–40 |
 | HDMI splitter 1-in-2-out, 4K@60, powered, mirror mode | Only if your capture card has no passthrough and you want the game on a TV while hunting. | Amazon, search the part name | $12–20 |
 | MG90S metal-gear micro servo (2–4 pack) | Taps the button. An SG90 works for a first build; the MG90S is quieter and more consistent, and a spare is worth having (one servo went bad after months and started browning out the Pi). | Amazon, search the part name | $8–12 |
